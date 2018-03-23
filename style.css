@@ -3,15 +3,12 @@ html {
 }
 
 
-div#navigation {
+div.navigation {
 width: 50%;
 margin-right 70%;
-float: right;
-}
-	naviagtion{
+float: left;
 background-color: pink;
-	margin-left: auto;
-  margin-right: auto;}
+}
 	subheader{}
 	main{}
 body {
