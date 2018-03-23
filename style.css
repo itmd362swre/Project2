@@ -22,17 +22,17 @@ h1
   text-align: center;
 }
 div.first
-	{width: 100%;
-	padding 20px;
+	{width: 50%;
+	padding 10px;
 	background-color: blue;
 	}
 div.main
-	{width: 100%;
+	{width: 60%;
 	padding 20px;
 	background-color: black;
 	}
 div.pics
-	{width: 100%;
+	{width: 70%;
 	padding 20px;
 	background-color: green;
 	}
