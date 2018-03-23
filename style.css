@@ -1,19 +1,21 @@
 html {
 	color: black;
 }
+
+
+first {}
+	naviagtion{
+background-color: alabaster;
+	margin-left: auto;
+  margin-right: auto;}
+	subheader{}
+	main{}
 body {
-
-
-
 background-color: #ffffcc;
 	margin-left: auto;
   margin-right: auto;
 }
-table{}
- table,th, td {
-  border: solid black 2px;
-  height: 2px;
-   padding: 20px;
+
 }
 h1 
 {
@@ -32,9 +34,15 @@ img
 li {
 	display:inline
 }
-h1, h2, p {
+h1, p {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
 	text-align: center;
     	color: Black;
+}
+h2 {
+	font-family: 'Open Sans', sans-serif;
+  	font-style: normal;
+	text-align: center;
+    	color: pink;
 }
