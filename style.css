@@ -3,7 +3,11 @@ html {
 }
 
 
-first {}
+div#first {
+width: 70%;
+margin-right 5%;
+float: right;
+}
 	naviagtion{
 background-color: pink;
 	margin-left: auto;
