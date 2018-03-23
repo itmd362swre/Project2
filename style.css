@@ -5,9 +5,16 @@ html {
 
 div.navigation {
 width: 50%;
-margin-right 70%;
-float: left;
-background-color: pink;
+margin-left 70%;
+float: right;
+background-color: red;
+}
+div.vids {
+width: 80%;
+margin-left 10%;
+margin-right 10%;
+float: right;
+background-color: orange;
 }
 	subheader{}
 	main{}
