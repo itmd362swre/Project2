@@ -1,0 +1,35 @@
+html {
+	color: red;
+}
+body {
+
+
+
+background-color: #ffffcc;
+	margin-left: auto;
+  margin-right: auto;
+}
+table{}
+ table,th, td {
+  border: solid black 2px;
+  height: 2px;
+   padding: 20px;
+}
+h1 
+{
+  font-style: normal;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-align: center;
+}
+img
+ {
+   padding: 5px;
+  height: 200px;
+  width: 200px;
+}
+
+
+li {
+	display:inline
+}
