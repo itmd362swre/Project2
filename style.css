@@ -2,9 +2,13 @@ div.navigation
 {
   width: 100%;
   margin: 10 10 10 10%;
-  float: left;
   background-color: pink;
 }
+div.vids
+{
+	width: 100%;
+	padding 20px;
+	background-color: orange;
 body 
 {
   background-color: #ffffcc;
