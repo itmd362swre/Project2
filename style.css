@@ -21,12 +21,22 @@ h1
   color: white;
   text-align: center;
 }
-img
-{
-   padding: 20px;
-   height: 400px;
-   width: 400px;
-}
+div.first
+	{width: 100%;
+	padding 20px;
+	background-color: blue;
+	}
+div.main
+	{width: 100%;
+	padding 20px;
+	background-color: black;
+	}
+div.pics
+	{width: 100%;
+	padding 20px;
+	background-color: green;
+	}
+	
 li 
 {
   display:inline
