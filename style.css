@@ -1,6 +1,6 @@
 div.navigation 
 {
-  width: 100%;
+  width: 75%;
   background-color: pink;
 }
 div.vids
@@ -8,6 +8,9 @@ div.vids
 	width: 100%;
 	padding 20px;
 	background-color: orange;
+}
+video { width: 400px;
+	height:400px;
 }
 body 
 {
@@ -39,7 +42,7 @@ div.pics
 	
 li 
 {
-  display:inline
+  display:inline;
 }
 ul li a 
 {
