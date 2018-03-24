@@ -71,6 +71,12 @@ p
 	text-align: center;
     	color: purple;
 }
+div.education p 
+{
+	font-family: 'Open Sans', sans-serif;
+  	font-style: normal;
+    	color: purple;
+}
 h2 
 {
 	font-family: 'Open Sans', sans-serif;
