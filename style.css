@@ -12,6 +12,9 @@ div.vids
 video { width: 400px;
 	height:400px;
 }
+video::-webkit-media-controls-panel {
+  width: 40px;
+}
 body 
 {
   background-color: #ffffcc;
@@ -48,15 +51,15 @@ ul li a
 {
   text-decoration: none;
   padding: .2em 1em;
-  color: gold;
+  color: purple;
   background-color: black;
 }
 ul li a:hover 
 {
   background-color: yellow;
   color: red;
-}
-h1, p 
+} 
+p 
 {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
