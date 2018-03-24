@@ -5,7 +5,7 @@ div.navigation
 }
 div.vids
 {
-	width: 100%;
+	width: 38%;
 	padding 2px;
 	background-color: orange;
 }
@@ -38,7 +38,7 @@ div.main
 	background-color: black;
 	}
 div.pics
-	{width: 70%;
+	{width: 60%;
 	padding 20px;
 	background-color: blueviolet;
 	}
