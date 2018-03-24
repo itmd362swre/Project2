@@ -57,11 +57,11 @@ ul li a
   text-decoration: none;
   padding: .2em 1em;
   color: purple;
-  background-color: black;
+  background-color: #e62e2e;
 }
 ul li a:hover 
 {
-  background-color: yellow;
+  background-color: limegreen;
   color: red;
 } 
 p 
