@@ -42,7 +42,12 @@ div.pics
 	padding 20px;
 	background-color: green;
 	}
-	
+div.pics img 
+{
+	width: 520px;
+        height: 520px;
+}
+
 li 
 {
   display:inline;
