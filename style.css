@@ -1,12 +1,12 @@
 div.navigation 
 {
   width: 100%;
-  background-color: pink;
+  background-color: blue;
 }
 div.vids
 {
-	width: 38%;
-	padding: 2px;
+	width: 35%;
+	padding: 10px 10px 10px 10px;
 	background-color: orange;
 }
 video { width: 400px;
