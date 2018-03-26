@@ -48,6 +48,26 @@ div.pics img
 	width: 400px;
 	height: 400px;
 }
+div.recentphoto1
+	{width: 30;
+	padding: 5px;
+	background-color: blueviolet;
+	}
+div.recentphoto1 img 
+{
+	width: 400px;
+	height: 400px;
+}
+div.recentphoto2 img 
+{
+	width: 400px;
+	height: 400px;
+}
+div.recentphoto3 img 
+{
+	width: 400px;
+	height: 400px;
+}
 
 li 
 {
