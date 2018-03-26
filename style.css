@@ -11,6 +11,7 @@ div.vids
 }
 video { width: 400px;
 	height:400px;
+	padding-left: 30px;
 }
 video::-webkit-media-controls-panel {
   width: 40px;
@@ -44,7 +45,8 @@ div.pics
 	}
 div.pics img 
 {
-	width: -moz-available;
+	width: 400px;
+	height: 400px;
 }
 
 li 
