@@ -44,8 +44,7 @@ div.pics
 	}
 div.pics img 
 {
-	width: 350px;
-        height: 350px;
+	width: -moz-available;
 }
 
 li 
@@ -82,7 +81,7 @@ h2
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
 	text-align: center;
-    	color: pink;
+    	color: darkblue;
 }
 div.myself
 	{width: 100%;
