@@ -5,16 +5,20 @@ div.navigation
 }
 div.vids
 {
-	width: 35%;
-	padding: 10px 10px 10px 10px;
-	background-color: orange;
+	width: 100%;
+	
+	background-color: blue;
 }
 video { width: 400px;
 	height:400px;
 	padding-left: 30px;
+		padding-right: 30px;
+padding-bottom: 30px;
+		padding-top:  30px;
+
+float: unset;
 }
-video::-webkit-media-controls-panel {
-  width: 40px;
+
 }
 body 
 {
@@ -34,19 +38,20 @@ div.first
 	background-color: blue;
 	}
 div.main
-	{width: 60%;
+	{width: 97%;
 	padding: 20px;
 	background-color: black;
 	}
 div.pics
-	{width: 60%;
-	padding: 20px;
+	{width: 0%;
+	padding: 0px;
 	background-color: blueviolet;
 	}
 div.pics img 
 {
 	width: 400px;
 	height: 400px;
+	float: inherit;
 }
 div.recentphoto1
 	{width: 100px;
@@ -88,7 +93,7 @@ ul li a
   text-decoration: none;
   padding: .2em 1em;
   color: purple;
-  background-color: #e62e2e;
+  background-color: grey;
 }
 ul li a:hover 
 {
@@ -99,8 +104,8 @@ p
 {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
-	text-align: left;
-    	color: blueviolet;
+	text-align: center;
+    	color: white;
 }
 div.education p 
 {
@@ -110,7 +115,7 @@ div.education p
 }
 h2 
 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: sa;
   	font-style: normal;
 	text-align: center;
     	color: darkblue;
