@@ -54,7 +54,7 @@ div.pics
 	padding: 20px;
 	background-color: blueviolet;
 	}
-div.indexpic2 img 
+div.indexPic2 img 
 {
 	width: 350px;
         height: 400px;
@@ -93,7 +93,7 @@ ul li a
 ul li a:hover 
 {
   background-color: limegreen;
-  color: red;
+  color: grey;
 } 
 p 
 {
