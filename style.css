@@ -76,13 +76,15 @@ div.education p
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
     	color: purple;
+	text-align: left;
+
 }
 h2 
 {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
 	text-align: center;
-    	color: pink;
+    	color: black;
 }
 div.myself
 	{width: 100%;
