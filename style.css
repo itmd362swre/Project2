@@ -49,6 +49,14 @@ div.main
 	background-color: black;
 		float: left;
 	}
+div.main p
+{
+	
+	font-family: 'Open Sans', sans-serif;
+  	font-style: italic;
+    	color: white;
+	text-align: left;
+}	
 div.pics
 	{width: 60%;
 	padding: 20px;
