@@ -7,7 +7,7 @@ div.vids
 {
 	width: 100%;
 	padding: 2px;
-	background-color: orange;
+	background-color: lightblue;
 }
 video { width: 300px;
 	height:400px;
@@ -63,13 +63,13 @@ div.indexPic2 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 }
-div recentphoto1
+div.recentphoto1
 { 
 	width: 1000px;
 	height: 1000px;
 	float: left;
 }
-div recentphoto2
+div.recentphoto2
 { 
 	width: 1000px;
 	height: 1000px;
@@ -77,7 +77,7 @@ div recentphoto2
 
 	
 }
-div recentphoto3
+div.recentphoto3
 { 
 	width: 1000px;
 	height: 1000px;
