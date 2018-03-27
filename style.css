@@ -15,10 +15,11 @@ video { width: 300px;
 video::-webkit-media-controls-panel {
   width: 40px;
 }
-div.vids.indexPic1
+div.indexPic1 img
 {
 	width: 300px;
 	height:400px;
+	float: left;
 }
 body 
 {
@@ -47,10 +48,10 @@ div.pics
 	padding: 20px;
 	background-color: blueviolet;
 	}
-div.vids.indexpic2 img 
+div.indexpic2 img 
 {
 	width: 350px;
-        height: 350px;
+        height: 400px;
 }
 
 li 
