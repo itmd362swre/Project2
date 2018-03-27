@@ -5,7 +5,8 @@ div.navigation
 }
 div.vids
 {
-	width: 100%;
+	width: 300px;
+	height: 400px;
 	
 	background-color: blue;
 }
@@ -15,8 +16,7 @@ video { width: 400px;
 	padding-right: 30px;
         padding-bottom: 30px;
 	padding-top:  30px;
-
-float: left;
+        float: left;
 }
 
 }
@@ -44,11 +44,8 @@ div.main
 	float: left;
 	}
 div.indexPic1
-	{width: 310px;
-		height: 410px
-	padding-left: 30px;
+	{
 		
-	background-color: blueviolet;
 	}
 div.indexPic1 img 
 {
@@ -75,20 +72,22 @@ div.recentphoto1 img
 	height: 400px;
 }
 div.recentphoto2
-	{width: 100px;
+{
+	width: 100px;
 	padding: 5px;
 	background-color: blueviolet;
-	}
+}
 div.recentphoto2 img 
 {
 	width: 400px;
 	height: 400px;
 }
 div.recentphoto3
-	{width: 100px;
+{
+	width: 100px;
 	padding: 5px;
 	background-color: blueviolet;
-	}
+}
 div.recentphoto3 img 
 {
 	width: 400px;
@@ -97,19 +96,19 @@ div.recentphoto3 img
 
 li 
 {
-  display: inline;
+  	display: inline;
 }
 ul li a 
 {
-  text-decoration: none;
-  padding: .2em 1em;
-  color: purple;
-  background-color: grey;
+	 text-decoration: none;
+	 padding: .2em 1em;
+	 color: purple;
+	 background-color: grey;
 }
 ul li a:hover 
 {
-  background-color: limegreen;
-  color: red;
+  	background-color: limegreen;
+  	color: red;
 } 
 p 
 {
@@ -132,7 +131,12 @@ h2
     	color: darkblue;
 }
 div.myself
-	{width: 100%;
+{
+	width: 100%;
 	padding: 20px;
 	background-color: #ffffcc;
+}
+div.footer
+{
+	float: left;
 }
