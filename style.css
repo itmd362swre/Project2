@@ -28,7 +28,7 @@ h1
   text-align: center;
 }
 div.first
-	{width: 50%;
+	{width: 100%;
 	padding-top: 10px;
 	background-color: blue;
 	}
@@ -68,7 +68,7 @@ p
 {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
-	text-align: center;
+	text-align: left;
     	color: purple;
 }
 div.education p 
