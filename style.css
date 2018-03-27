@@ -11,6 +11,7 @@ div.vids
 }
 video { width: 300px;
 	height:400px;
+	float: left;
 }
 video::-webkit-media-controls-panel {
   width: 40px;
@@ -42,6 +43,7 @@ div.main
 	{width: 100%;
 	padding: 20px;
 	background-color: black;
+		float: left;
 	}
 div.pics
 	{width: 60%;
@@ -96,4 +98,8 @@ div.myself
 	{width: 100%;
 	padding: 20px;
 	background-color: #ffffcc;
+}
+footer
+{
+	float:left;
 }
