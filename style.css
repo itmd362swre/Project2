@@ -9,11 +9,16 @@ div.vids
 	padding: 2px;
 	background-color: orange;
 }
-video { width: 400px;
+video { width: 300px;
 	height:400px;
 }
 video::-webkit-media-controls-panel {
   width: 40px;
+}
+div.vids.indexPic1
+{
+	width: 300px;
+	height:400px;
 }
 body 
 {
@@ -42,7 +47,7 @@ div.pics
 	padding: 20px;
 	background-color: blueviolet;
 	}
-div.pics img 
+div.vids.indexpic2 img 
 {
 	width: 350px;
         height: 350px;
