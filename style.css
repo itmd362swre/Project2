@@ -1,20 +1,19 @@
 div.navigation 
 {
-  width: 100%;
-  background-color: blue;
+  width: 75%;
+  background-color: pink;
 }
 div.vids
 {
-	width: 300px;
-	height: 400px;
-	background-color: blue;
-	float: left;
+	width: 38%;
+	padding: 2px;
+	background-color: orange;
 }
-video { width: 300px;
+video { width: 400px;
 	height:400px;
-	
 }
-
+video::-webkit-media-controls-panel {
+  width: 40px;
 }
 body 
 {
@@ -29,110 +28,64 @@ h1
   text-align: center;
 }
 div.first
-	{width: 100%;
+	{width: 50%;
 	padding-top: 10px;
 	background-color: blue;
 	}
 div.main
-	{width: 97%;
+	{width: 60%;
 	padding: 20px;
 	background-color: black;
-	float: left;
 	}
-div.indexPic1
-	{
-		
-	}
-div.indexPic1 img 
-{
-	width: 300px;
-	height: 400px;
-	float: left;
-}
-div.indexPic2 img 
-{
-	width: 300px;
-	height: 400px;
-	float: left;
-}
- 
-
-div.recentphoto1
-	{width: 100px;
-	padding: 5px;
+div.pics
+	{width: 60%;
+	padding: 20px;
 	background-color: blueviolet;
 	}
-div.recentphoto1 img 
+div.pics img 
 {
-	width: 400px;
-	height: 400px;
-}
-div.recentphoto2
-{
-	width: 100px;
-	padding: 5px;
-	background-color: blueviolet;
-}
-div.recentphoto2 img 
-{
-	width: 400px;
-	height: 400px;
-}
-div.recentphoto3
-{
-	width: 100px;
-	padding: 5px;
-	background-color: blueviolet;
-}
-div.recentphoto3 img 
-{
-	width: 400px;
-	height: 400px;
+	width: 350px;
+        height: 350px;
 }
 
 li 
 {
-  	display: inline;
+  display: inline;
 }
 ul li a 
 {
-	 text-decoration: none;
-	 padding: .2em 1em;
-	 color: purple;
-	 background-color: grey;
+  text-decoration: none;
+  padding: .2em 1em;
+  color: purple;
+  background-color: #e62e2e;
 }
 ul li a:hover 
 {
-  	background-color: limegreen;
-  	color: red;
+  background-color: limegreen;
+  color: red;
 } 
 p 
 {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
 	text-align: center;
-    	color: white;
+    	color: purple;
 }
 div.education p 
 {
 	font-family: 'Open Sans', sans-serif;
-  	font-style: oblique;
-    	color: black;
+  	font-style: normal;
+    	color: purple;
 }
 h2 
 {
-	font-family: sa;
+	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
 	text-align: center;
-    	color: darkblue;
+    	color: pink;
 }
 div.myself
-{
-	width: 100%;
+	{width: 100%;
 	padding: 20px;
 	background-color: #ffffcc;
-}
-div.footer
-{
-	float: left;
 }
