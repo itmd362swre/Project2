@@ -63,7 +63,28 @@ div.indexPic2 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 }
+div recentphoto1
+{ 
+	width: 1000px;
+	height: 1000px;
+	float: left;
+}
+div recentphoto2
+{ 
+	width: 1000px;
+	height: 1000px;
+	float: left;
 
+	
+}
+div recentphoto3
+{ 
+	width: 1000px;
+	height: 1000px;
+	float: left;
+
+	
+}
 div.Education li 
 {
   display: list-item;
