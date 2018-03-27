@@ -109,12 +109,12 @@ ul li a
   text-decoration: none;
   padding: .2em 1em;
   color: purple;
-  background-color: #e62e2e;
+  background-color: ##a19999;
 }
 ul li a:hover 
 {
-  background-color: limegreen;
-  color: grey;
+  background-color: #f3362f;
+  color: red;
 } 
 p 
 {
