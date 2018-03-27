@@ -71,13 +71,13 @@ div.indexPic2 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 }
-div.recentphoto1
+div.recentphoto1 img
 { 
-	width: 1000px;
-	height: 1000px;
+	width: 400px;
+	height: 400px;
 	float: left;
 }
-div.recentphoto2
+div.recentphoto2 img
 { 
 	width: 1000px;
 	height: 1000px;
@@ -85,7 +85,7 @@ div.recentphoto2
 
 	
 }
-div.recentphoto3
+div.recentphoto3 img
 { 
 	width: 1000px;
 	height: 1000px;
