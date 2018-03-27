@@ -41,6 +41,7 @@ div.main
 	{width: 97%;
 	padding: 20px;
 	background-color: black;
+	float: left;
 	}
 div.indexPic1
 	{width: 310px;
