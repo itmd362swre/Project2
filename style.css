@@ -30,8 +30,6 @@ div.vids video
 video { width: 400px;
 	height:400px;
 	float: left;
-	-webkit-border-radius: 400px;
--moz-border-radius: 400px;
 border-radius: 400px;
 }
 video::-webkit-media-controls-panel {
@@ -47,8 +45,6 @@ div.indexPic1 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
-	-webkit-border-radius: 400px;
--moz-border-radius: 400px;
 border-radius: 400px;
 }
 body 
@@ -97,8 +93,6 @@ div.indexPic2 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
-	-webkit-border-radius: 400px;
--moz-border-radius: 400px;
 border-radius: 400px;
 }
 div.recentphoto1 img
@@ -106,8 +100,6 @@ div.recentphoto1 img
 	width: 400px;
 	height: 400px;
 	float:left;
-	-webkit-border-radius: 400px;
--moz-border-radius: 400px;
 border-radius: 400px;
 }
 div.recentphoto2 img
@@ -115,8 +107,6 @@ div.recentphoto2 img
 	width: 400px;
 	height: 400px;
 	float: left;
--webkit-border-radius: 400px;
--moz-border-radius: 400px;
 border-radius: 400px;
 	
 }
@@ -125,8 +115,6 @@ div.recentphoto3 img
 	width: 400px;
 	height: 400px;
 	float: left;
-	-webkit-border-radius: 400px;
--moz-border-radius: 400px;
 border-radius: 400px;
 
 	
