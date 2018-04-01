@@ -26,14 +26,11 @@ div.vids video
 	border: solid black 20px;
 	float:left;
 }
-}
+
 video { width: 400px;
 	height:400px;
 	float: left;
 border-radius: 400px;
-}
-video::-webkit-media-controls-panel {
-  width: 40px;
 }
 div.indexPic1 img
 {
