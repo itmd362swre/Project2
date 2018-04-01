@@ -27,9 +27,12 @@ div.vids video
 	float:left;
 }
 }
-video { width: 300px;
+video { width: 400px;
 	height:400px;
 	float: left;
+	-webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px;
 }
 video::-webkit-media-controls-panel {
   width: 40px;
@@ -103,6 +106,9 @@ div.recentphoto1 img
 	width: 400px;
 	height: 400px;
 	padding-left: 60px;
+	-webkit-border-radius: 200px;
+-moz-border-radius: 200px;
+border-radius: 200px;
 }
 div.recentphoto2 img
 { 
