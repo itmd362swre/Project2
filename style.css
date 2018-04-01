@@ -115,7 +115,9 @@ div.recentphoto2 img
 	width: 400px;
 	height: 400px;
 	float: left;
-
+-webkit-border-radius: 200px;
+-moz-border-radius: 200px;
+border-radius: 200px;
 	
 }
 div.recentphoto3 img
@@ -123,6 +125,9 @@ div.recentphoto3 img
 	width: 400px;
 	height: 400px;
 	float: left;
+	-webkit-border-radius: 200px;
+-moz-border-radius: 200px;
+border-radius: 200px;
 
 	
 }
