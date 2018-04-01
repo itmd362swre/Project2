@@ -13,6 +13,7 @@ div.vids
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
+	float:left;
 }
 }
 video { width: 300px;
