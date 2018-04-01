@@ -15,6 +15,17 @@ div.vids
 	border: solid black 20px;
 	float:left;
 }
+div.vids video
+{
+	width: 300px;
+	height:400px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	border: solid black 20px;
+	float:left;
+}
 }
 video { width: 300px;
 	height:400px;
@@ -25,7 +36,7 @@ video::-webkit-media-controls-panel {
 }
 div.indexPic1 img
 {
-	width: 300px;
+	width: 400px;
 	height:400px;
 	float: left;
 	padding-left: 126px;
@@ -33,6 +44,9 @@ div.indexPic1 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
+	-webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 200px;
 }
 body 
 {
@@ -73,13 +87,16 @@ div.pics
 div.indexPic2 img 
 {
 	float: left;
-	width: 350px;
+	width: 400px;
         height: 400px;
 	padding-left: 30px;
 	padding-top: 30px;
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
+	-webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px;
 }
 div.recentphoto1 img
 { 
