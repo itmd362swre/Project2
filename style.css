@@ -105,19 +105,19 @@ div.recentphoto1 img
 { 
 	width: 400px;
 	height: 400px;
-	padding-left: 60px;
-	-webkit-border-radius: 200px;
--moz-border-radius: 200px;
-border-radius: 200px;
+	float:left;
+	-webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px;
 }
 div.recentphoto2 img
 { 
 	width: 400px;
 	height: 400px;
 	float: left;
--webkit-border-radius: 200px;
--moz-border-radius: 200px;
-border-radius: 200px;
+-webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px;
 	
 }
 div.recentphoto3 img
@@ -125,9 +125,9 @@ div.recentphoto3 img
 	width: 400px;
 	height: 400px;
 	float: left;
-	-webkit-border-radius: 200px;
--moz-border-radius: 200px;
-border-radius: 200px;
+	-webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px;
 
 	
 }
