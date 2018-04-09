@@ -85,6 +85,8 @@ div.main p
   	font-style: italic;
     	color: white;
 	text-align: left;
+	font-size: 20px;
+	margin-top: 10px;
 }	
 div.pics
 	{width: 60%;
@@ -187,6 +189,7 @@ h2
 	text-align: center;
     	color: black;
 	padding-top: 30px;
+	font-size: 40px;
 }
 div.myself
 	{width: 100%;
