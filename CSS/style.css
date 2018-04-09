@@ -26,6 +26,10 @@ div.vids video
 	padding-bottom: 30px;
 	border: solid black 20px;
 	float:left;
+	background-color: yellow;
+	margin-right: 60px;
+	margin-left: 60px;
+	margin-top: 60px;
 }
 
 video { width: 400px;
@@ -44,6 +48,11 @@ div.indexPic1 img
 	padding-bottom: 30px;
 	border: solid black 20px;
 border-radius: 400px;
+	background-color: red;
+	float: inline-start;
+	margin-left: 60px;
+	margin-top: 60px;
+	margin-right: 60px;
 }
 body 
 {
@@ -61,6 +70,7 @@ div.first
 	{width: 100%;
 	padding-top: 10px;
 	background-color: blue;
+padding-top: 30px;
 	}
 div.main
 	{width: 100%;
@@ -92,6 +102,11 @@ div.indexPic2 img
 	padding-bottom: 30px;
 	border: solid black 20px;
 border-radius: 400px;
+	background-color: blue;
+	margin-left: 355px;
+	margin-right: 35px;
+	margin-top: 60px;
+	margin-bottom: 100px;
 }
 div.recentphoto1 img
 { 
@@ -139,9 +154,10 @@ li
 ul li a 
 {
   text-decoration: none;
-  padding: .5em 5em;
+  padding: .10em 10em;
   color: purple;
   background-color: #a19999;
+  margin-top: 30px;
 }
 ul li a:hover 
 {
@@ -169,6 +185,7 @@ h2
   	font-style: normal;
 	text-align: center;
     	color: black;
+	padding-top: 30px;
 }
 div.myself
 	{width: 100%;
