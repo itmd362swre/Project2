@@ -184,17 +184,37 @@ div.education p
 }
 h2 
 {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Great Vibes', script;
   	font-style: normal;
 	text-align: center;
     	color: black;
 	padding-top: 30px;
 	font-size: 40px;
 }
+h3 
+{
+	font-family: 'Great Vibes', normal;
+  	font-style: normal;
+	text-align: center;
+    	color: black;
+	padding-top: 30px;
+	font-size: 30px;
+	padding-bottom: 30px;
+
 div.myself
 	{width: 100%;
 	padding: 20px;
 	background-color: #ffffcc;
+}
+div.date
+{
+	float: left;
+	padding-left: 100px;
+}
+div.city p
+{
+	float: left;
+	padding-left: 100px;
 }
 footer
 {
