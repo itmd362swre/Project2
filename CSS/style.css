@@ -136,15 +136,22 @@ border-radius: 400px;
 }
 div.Education li 
 {
-  display: list-item;
+  display: -moz-inline-grid;
+  align-content: ;
+		font-size: 25px;
+
 }
 div.skills li 
 {
-  display: list-item;
+  display: block;
+  text-align: initial;
+  font-size: 25px;
 }
 div.experience li 
 {
-  display: list-item;
+  display: initial;
+		font-size: 25px;
+
 }
 
 
@@ -178,8 +185,9 @@ div.education p
 {
 	font-family: 'Open Sans', sans-serif;
   	font-style: normal;
-    	color: purple;
+    	color: black;
 	text-align: left;
+	font-size: 25px;
 
 }
 h2 
@@ -190,6 +198,8 @@ h2
     	color: black;
 	padding-top: 30px;
 	font-size: 40px;
+		padding-bottom: 30px;
+
 }
 h3 
 {
@@ -219,4 +229,13 @@ div.city p
 footer
 {
 	float:left;
+		font-size: 15px;
+
+
+}
+div.passion p
+{
+	text-align: center;
+		font-size: 25px;
+
 }
