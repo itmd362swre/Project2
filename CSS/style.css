@@ -31,11 +31,12 @@ div.vids video
 	margin-left: 60px;
 	margin-top: 60px;
 }
-
-video { width: 400px;
+video 
+{ 
+  width: 400px;
 	height:400px;
 	float: left;
-border-radius: 400px;
+  border-radius: 400px;
 }
 div.indexPic1 img
 {
@@ -47,7 +48,7 @@ div.indexPic1 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
-border-radius: 400px;
+  border-radius: 400px;
 	background-color: red;
 	float: inline-start;
 	margin-left: 60px;
@@ -69,23 +70,25 @@ h1
   text-align: center;
 }
 div.first
-	{width: 100%;
+{
+	width: 100%;
 	padding-top: 10px;
 	background-color: blue;
-padding-top: 30px;
-	}
+  padding-top: 30px;
+}
 div.main
-	{width: 100%;
+{
+	width: 100%;
 	padding: 20px;
 	background-color: black;
-		float: left;
-	}
+	float: left;
+}
 div.main p
 {
 	
 	font-family: 'Open Sans', sans-serif;
-  	font-style: italic;
-    	color: white;
+  font-style: italic;
+  color: white;
 	text-align: left;
 	font-size: 20px;
 	margin-top: 10px;
@@ -105,7 +108,7 @@ div.indexPic2 img
 	padding-right: 30px;
 	padding-bottom: 30px;
 	border: solid black 20px;
-border-radius: 400px;
+  border-radius: 400px;
 	background-color: blue;
 	margin-left: 355px;
 	margin-right: 35px;
@@ -117,14 +120,14 @@ div.recentphoto1 img
 	width: 400px;
 	height: 400px;
 	float:left;
-border-radius: 400px;
+  border-radius: 400px;
 }
 div.recentphoto2 img
 { 
 	width: 400px;
 	height: 400px;
 	float: left;
-border-radius: 400px;
+  border-radius: 400px;
 	
 }
 div.recentphoto3 img
@@ -132,16 +135,13 @@ div.recentphoto3 img
 	width: 400px;
 	height: 400px;
 	float: left;
-border-radius: 400px;
-
-	
+  border-radius: 400px;
 }
 div.Education li 
 {
-  display: -moz-inline-grid;
-  align-content: ;
-		font-size: 25px;
-
+  display: initial;
+  align-content: initial ;
+	font-size: 25px;
 }
 div.skills li 
 {
@@ -152,12 +152,8 @@ div.skills li
 div.experience li 
 {
   display: initial;
-		font-size: 25px;
-
+	font-size: 25px;
 }
-
-
-
 li 
 {
   display: inline;
@@ -178,11 +174,11 @@ ul li a:hover
 p 
 {
 	font-family: 'Open Sans', sans-serif;
-  	font-style: normal;
+  font-style: normal;
 	text-align: left;
-    	color: black;
+  color: black;
 	padding-bottom: 10px;
-		font-size: 25px;
+	font-size: 25px;
 
 }
 div.education p 
@@ -192,31 +188,32 @@ div.education p
     	color: black;
 	text-align: left;
 	font-size: 25px;
-
 }
 h2 
 {
 	font-family: 'Great Vibes', script;
-  	font-style: normal;
+  font-style: normal;
 	text-align: center;
-    	color: black;
+  color: black;
 	padding-top: 30px;
 	font-size: 40px;
-		padding-bottom: 30px;
+	padding-bottom: 30px;
 
 }
 h3 
 {
 	font-family: 'Great Vibes', normal;
-  	font-style: normal;
+  font-style: normal;
 	text-align: center;
-    	color: black;
+  color: black;
 	padding-top: 30px;
 	font-size: 30px;
 	padding-bottom: 30px;
+}
 
 div.myself
-	{width: 100%;
+{
+	width: 100%;
 	padding: 20px;
 	background-color: #ffffcc;
 }
@@ -233,13 +230,13 @@ div.city p
 footer
 {
 	float:left;
-		font-size: 15px;
+	font-size: 15px;
 
 
 }
 div.passion p
 {
 	text-align: center;
-		font-size: 25px;
+	font-size: 25px;
 
 }
